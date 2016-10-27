@@ -1,3 +1,4 @@
 mars is red
 mars change color
 mars is now green lol
+mars blew up
